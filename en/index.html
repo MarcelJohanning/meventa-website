@@ -12,30 +12,35 @@
 <body>
   <header class="site-header" aria-label="Main navigation">
     <a class="brand" href="index.html" aria-label="MEVENTA AI research">
-      <img src="../assets/meventa-core-mark.png" alt="" class="brand-mark" />
-      <span class="brand-text">
-        <span class="brand-word">ME<span>V</span>ENTA</span>
-        <span class="brand-sub">AI research</span>
-      </span>
+      <img src="../assets/meventa-logo.png" alt="MEVENTA AI research" class="brand-logo" />
     </a>
     <nav class="nav" aria-label="Navigation">
       <a href="evia.html">EVIA</a>
       <a href="artificial-imagination.html">Artificial Imagination</a>
       <a href="creative-runtime.html">Creative Runtime</a>
+      <a href="hp2d-48mer-minus23.html">HP2D -23</a>
       <a href="real-world-experience.html">Real-world</a>
       <a href="neural-resonance-layer.html">Neural Resonance</a>
       <a href="governance.html">Governance</a>
+      <a href="#film">Film</a>
       <a href="#contact">Contact</a>
       <span class="lang-switch" aria-label="Language"><a href="../index.html" lang="de">DE</a><a class="active" href="index.html" lang="en">EN</a></span>
     </nav>
   </header>
 
   <main id="top">
-    <section class="hero section-pad">
+    <section class="hero hero-film hero-with-loop section-pad" id="film">
+      <div class="hero-motion-bg" aria-hidden="true">
+        <video autoplay muted loop playsinline preload="auto" poster="../assets/evia-hero-loop-poster.jpg">
+          <source src="../assets/evia-hero-loop.mp4" type="video/mp4" />
+        </video>
+      </div>
+      <div class="hero-loop-overlay" aria-hidden="true"></div>
+      <div class="hero-inner">
       <div class="hero-copy">
         <p class="eyebrow">MEVENTA AI research</p>
-        <h1>MEVENTA develops EVIA.</h1>
-        <p class="lead"><strong>A new architecture path toward real AGI.</strong></p>
+        <h1>EVIA — AGI through Artificial Imagination.</h1>
+        <p class="lead"><strong>MEVENTA develops a new architecture path toward real AGI.</strong></p>
         <p>EVIA is an <strong>Event-Driven Intelligence Architecture</strong> for Artificial Imagination, governed learning and machine invention.</p>
         <p>Built for a form of intelligence that can open new thinking spaces — not merely generate outputs, simulate known possibilities or optimize inside predefined spaces.</p>
         <p class="hero-punch">Artificial Imagination — <span>governed from day one.</span></p>
@@ -46,26 +51,40 @@
         </div>
       </div>
 
-      <aside class="hero-panel" aria-label="Public EVIA architecture logic">
-        <p class="panel-label">Public EVIA logic</p>
-        <div class="diagram">
-          <div class="node">Problem and world context</div>
-          <div class="arrow">↓</div>
-          <div class="node">Event-driven state architecture</div>
-          <div class="arrow">↓</div>
-          <div class="node emphasis">Artificial Imagination<br><span>Creative Runtime</span></div>
-          <div class="arrow">↓</div>
-          <div class="node">Testable candidates</div>
-          <div class="arrow">↓</div>
-          <div class="node">Evaluation + Governance</div>
-          <div class="arrow">↓</div>
-          <div class="node">Validated learning<br><span>controlled output</span></div>
+      <aside class="hero-video-card" aria-label="EVIA Film">
+        <p class="panel-label">EVIA Film</p>
+        <div class="hero-film-shell">
+          <video class="evia-film" controls preload="metadata" playsinline poster="../assets/evia-film-poster.jpg">
+            <source src="../assets/evia-start-1080p.mp4" type="video/mp4" />
+            Your browser does not support this video.
+          </video>
         </div>
-        <div class="support-lines">
-          <a class="support-card card-link" href="neural-resonance-layer.html"><strong>Neural Resonance</strong><br>Making experience resonant and usable.<span aria-hidden="true">↗</span></a>
-          <a class="support-card card-link" href="real-world-experience.html"><strong>Physical AI</strong><br>Long-term connection to real-world experience.<span aria-hidden="true">↗</span></a>
-        </div>
+        <p class="film-caption">Exploration is in our nature. EVIA brings it into machines.</p>
       </aside>
+      </div>
+    </section>
+
+
+    <section class="section-pad hp2d-home-highlight" id="hp2d-evidence">
+      <div class="section-head narrow">
+        <p class="eyebrow">Current technical evidence</p>
+        <h2>Validated -23 fold on the HP2D 48-mer benchmark.</h2>
+        <p>MEVENTA Creative Runtime v10 produced a valid coordinate artifact for the classic HP2D 48-mer benchmark sequence. The result was exported as JSON, rendered from the artifact, and independently revalidated.</p>
+      </div>
+      <div class="hp2d-home-grid">
+        <a class="hp2d-home-figure card-link" href="hp2d-48mer-minus23.html" aria-label="Open HP2D -23 Evidence Note">
+          <img src="../assets/research/hp2d-48mer-minus23/hp2d-48mer-minus23-hero.png" alt="HP2D 48-mer fold with energy -23 and 23 H-H contacts" />
+        </a>
+        <div class="hp2d-home-copy">
+          <p class="card-kicker">Creative Runtime v10</p>
+          <h3>Energy -23. 23 H-H contacts. Valid=true. Violations=0.</h3>
+          <p>A local MacBook run, without benchmark-specific pretraining, reached the best-known reported energy level for this sequence. This is not an AGI claim and not a general protein-folding claim — it is a verifiable evidence artifact.</p>
+          <div class="hp2d-home-actions">
+            <a class="mail-link" href="hp2d-48mer-minus23.html">Open Evidence Note</a>
+            <a class="hp2d-secondary-link" href="https://github.com/MarcelJohanning/meventa-hp2d-48mer-minus23-evidence">GitHub evidence package ↗</a>
+          </div>
+        </div>
+      </div>
     </section>
 
     <section class="split section-pad section-border" id="why">
@@ -234,7 +253,7 @@
   </main>
 
   <footer class="site-footer">
-    <div class="footer-brand"><span class="brand-word">ME<span>V</span>ENTA</span><span>AI research</span></div>
+    <div class="footer-brand"><img src="../assets/meventa-logo.png" alt="MEVENTA AI research" class="footer-logo" /></div>
     <div class="footer-links"><a href="imprint.html">Imprint</a><a href="privacy.html">Privacy</a><a href="../index.html">DE</a></div>
   </footer>
 </body>

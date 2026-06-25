@@ -1,0 +1,515 @@
+{
+  "exportStatus": "ok",
+  "artifactType": "hp2d_best_fold",
+  "benchmarkId": "hp2d-standard-48mer",
+  "problemId": "hp2d-standard-48mer",
+  "sequence": "PPHPPHHPPHHPPPPPHHHHHHHHHHPPPPPPHHPPHHPPHPPHHHHH",
+  "sequenceLength": 48,
+  "candidateId": "cand_1782371765506_5eolwv",
+  "candidateStatus": "realized",
+  "proposalClass": "local_open",
+  "openingType": "local",
+  "sourcePointId": "cand_1782371075362_wz0eh5",
+  "sourceType": "direct",
+  "strongestScaleType": "large",
+  "primitiveScaleType": "large",
+  "improvedAtCycle": 899,
+  "improvedAtPointCount": 11274,
+  "reportedEnergy": -23,
+  "reportedContacts": 23,
+  "validatedEnergy": -23,
+  "validatedContacts": 23,
+  "valid": true,
+  "violations": [],
+  "coordsLength": 48,
+  "coords": [
+    {
+      "index": 0,
+      "residue": "P",
+      "x": 7,
+      "y": 5
+    },
+    {
+      "index": 1,
+      "residue": "P",
+      "x": 6,
+      "y": 5
+    },
+    {
+      "index": 2,
+      "residue": "H",
+      "x": 5,
+      "y": 5
+    },
+    {
+      "index": 3,
+      "residue": "P",
+      "x": 5,
+      "y": 6
+    },
+    {
+      "index": 4,
+      "residue": "P",
+      "x": 4,
+      "y": 6
+    },
+    {
+      "index": 5,
+      "residue": "H",
+      "x": 4,
+      "y": 5
+    },
+    {
+      "index": 6,
+      "residue": "H",
+      "x": 3,
+      "y": 5
+    },
+    {
+      "index": 7,
+      "residue": "P",
+      "x": 3,
+      "y": 6
+    },
+    {
+      "index": 8,
+      "residue": "P",
+      "x": 2,
+      "y": 6
+    },
+    {
+      "index": 9,
+      "residue": "H",
+      "x": 2,
+      "y": 5
+    },
+    {
+      "index": 10,
+      "residue": "H",
+      "x": 1,
+      "y": 5
+    },
+    {
+      "index": 11,
+      "residue": "P",
+      "x": 1,
+      "y": 6
+    },
+    {
+      "index": 12,
+      "residue": "P",
+      "x": 0,
+      "y": 6
+    },
+    {
+      "index": 13,
+      "residue": "P",
+      "x": 0,
+      "y": 5
+    },
+    {
+      "index": 14,
+      "residue": "P",
+      "x": 0,
+      "y": 4
+    },
+    {
+      "index": 15,
+      "residue": "P",
+      "x": 0,
+      "y": 3
+    },
+    {
+      "index": 16,
+      "residue": "H",
+      "x": 1,
+      "y": 3
+    },
+    {
+      "index": 17,
+      "residue": "H",
+      "x": 1,
+      "y": 4
+    },
+    {
+      "index": 18,
+      "residue": "H",
+      "x": 2,
+      "y": 4
+    },
+    {
+      "index": 19,
+      "residue": "H",
+      "x": 2,
+      "y": 3
+    },
+    {
+      "index": 20,
+      "residue": "H",
+      "x": 3,
+      "y": 3
+    },
+    {
+      "index": 21,
+      "residue": "H",
+      "x": 3,
+      "y": 4
+    },
+    {
+      "index": 22,
+      "residue": "H",
+      "x": 4,
+      "y": 4
+    },
+    {
+      "index": 23,
+      "residue": "H",
+      "x": 4,
+      "y": 3
+    },
+    {
+      "index": 24,
+      "residue": "H",
+      "x": 5,
+      "y": 3
+    },
+    {
+      "index": 25,
+      "residue": "H",
+      "x": 5,
+      "y": 4
+    },
+    {
+      "index": 26,
+      "residue": "P",
+      "x": 6,
+      "y": 4
+    },
+    {
+      "index": 27,
+      "residue": "P",
+      "x": 7,
+      "y": 4
+    },
+    {
+      "index": 28,
+      "residue": "P",
+      "x": 7,
+      "y": 3
+    },
+    {
+      "index": 29,
+      "residue": "P",
+      "x": 7,
+      "y": 2
+    },
+    {
+      "index": 30,
+      "residue": "P",
+      "x": 7,
+      "y": 1
+    },
+    {
+      "index": 31,
+      "residue": "P",
+      "x": 6,
+      "y": 1
+    },
+    {
+      "index": 32,
+      "residue": "H",
+      "x": 5,
+      "y": 1
+    },
+    {
+      "index": 33,
+      "residue": "H",
+      "x": 4,
+      "y": 1
+    },
+    {
+      "index": 34,
+      "residue": "P",
+      "x": 4,
+      "y": 0
+    },
+    {
+      "index": 35,
+      "residue": "P",
+      "x": 3,
+      "y": 0
+    },
+    {
+      "index": 36,
+      "residue": "H",
+      "x": 3,
+      "y": 1
+    },
+    {
+      "index": 37,
+      "residue": "H",
+      "x": 2,
+      "y": 1
+    },
+    {
+      "index": 38,
+      "residue": "P",
+      "x": 2,
+      "y": 0
+    },
+    {
+      "index": 39,
+      "residue": "P",
+      "x": 1,
+      "y": 0
+    },
+    {
+      "index": 40,
+      "residue": "H",
+      "x": 1,
+      "y": 1
+    },
+    {
+      "index": 41,
+      "residue": "P",
+      "x": 0,
+      "y": 1
+    },
+    {
+      "index": 42,
+      "residue": "P",
+      "x": 0,
+      "y": 2
+    },
+    {
+      "index": 43,
+      "residue": "H",
+      "x": 1,
+      "y": 2
+    },
+    {
+      "index": 44,
+      "residue": "H",
+      "x": 2,
+      "y": 2
+    },
+    {
+      "index": 45,
+      "residue": "H",
+      "x": 3,
+      "y": 2
+    },
+    {
+      "index": 46,
+      "residue": "H",
+      "x": 4,
+      "y": 2
+    },
+    {
+      "index": 47,
+      "residue": "H",
+      "x": 5,
+      "y": 2
+    }
+  ],
+  "hhContacts": [
+    {
+      "i": 2,
+      "j": 5,
+      "xi": 5,
+      "yi": 5,
+      "xj": 4,
+      "yj": 5
+    },
+    {
+      "i": 2,
+      "j": 25,
+      "xi": 5,
+      "yi": 5,
+      "xj": 5,
+      "yj": 4
+    },
+    {
+      "i": 5,
+      "j": 22,
+      "xi": 4,
+      "yi": 5,
+      "xj": 4,
+      "yj": 4
+    },
+    {
+      "i": 6,
+      "j": 9,
+      "xi": 3,
+      "yi": 5,
+      "xj": 2,
+      "yj": 5
+    },
+    {
+      "i": 6,
+      "j": 21,
+      "xi": 3,
+      "yi": 5,
+      "xj": 3,
+      "yj": 4
+    },
+    {
+      "i": 9,
+      "j": 18,
+      "xi": 2,
+      "yi": 5,
+      "xj": 2,
+      "yj": 4
+    },
+    {
+      "i": 10,
+      "j": 17,
+      "xi": 1,
+      "yi": 5,
+      "xj": 1,
+      "yj": 4
+    },
+    {
+      "i": 16,
+      "j": 19,
+      "xi": 1,
+      "yi": 3,
+      "xj": 2,
+      "yj": 3
+    },
+    {
+      "i": 16,
+      "j": 43,
+      "xi": 1,
+      "yi": 3,
+      "xj": 1,
+      "yj": 2
+    },
+    {
+      "i": 18,
+      "j": 21,
+      "xi": 2,
+      "yi": 4,
+      "xj": 3,
+      "yj": 4
+    },
+    {
+      "i": 19,
+      "j": 44,
+      "xi": 2,
+      "yi": 3,
+      "xj": 2,
+      "yj": 2
+    },
+    {
+      "i": 20,
+      "j": 23,
+      "xi": 3,
+      "yi": 3,
+      "xj": 4,
+      "yj": 3
+    },
+    {
+      "i": 20,
+      "j": 45,
+      "xi": 3,
+      "yi": 3,
+      "xj": 3,
+      "yj": 2
+    },
+    {
+      "i": 22,
+      "j": 25,
+      "xi": 4,
+      "yi": 4,
+      "xj": 5,
+      "yj": 4
+    },
+    {
+      "i": 23,
+      "j": 46,
+      "xi": 4,
+      "yi": 3,
+      "xj": 4,
+      "yj": 2
+    },
+    {
+      "i": 24,
+      "j": 47,
+      "xi": 5,
+      "yi": 3,
+      "xj": 5,
+      "yj": 2
+    },
+    {
+      "i": 32,
+      "j": 47,
+      "xi": 5,
+      "yi": 1,
+      "xj": 5,
+      "yj": 2
+    },
+    {
+      "i": 33,
+      "j": 36,
+      "xi": 4,
+      "yi": 1,
+      "xj": 3,
+      "yj": 1
+    },
+    {
+      "i": 33,
+      "j": 46,
+      "xi": 4,
+      "yi": 1,
+      "xj": 4,
+      "yj": 2
+    },
+    {
+      "i": 36,
+      "j": 45,
+      "xi": 3,
+      "yi": 1,
+      "xj": 3,
+      "yj": 2
+    },
+    {
+      "i": 37,
+      "j": 40,
+      "xi": 2,
+      "yi": 1,
+      "xj": 1,
+      "yj": 1
+    },
+    {
+      "i": 37,
+      "j": 44,
+      "xi": 2,
+      "yi": 1,
+      "xj": 2,
+      "yj": 2
+    },
+    {
+      "i": 40,
+      "j": 43,
+      "xi": 1,
+      "yi": 1,
+      "xj": 1,
+      "yj": 2
+    }
+  ],
+  "boundingBox": {
+    "minX": 0,
+    "maxX": 7,
+    "minY": 0,
+    "maxY": 6,
+    "width": 8,
+    "height": 7,
+    "area": 56
+  },
+  "pathSource": "root.resultView.display.coords",
+  "originNormalized": true,
+  "pathKey": "7:5|6:5|5:5|5:6|4:6|4:5|3:5|3:6|2:6|2:5|1:5|1:6|0:6|0:5|0:4|0:3|1:3|1:4|2:4|2:3|3:3|3:4|4:4|4:3|5:3|5:4|6:4|7:4|7:3|7:2|7:1|6:1|5:1|4:1|4:0|3:0|3:1|2:1|2:0|1:0|1:1|0:1|0:2|1:2|2:2|3:2|4:2|5:2",
+  "compactPath": "0P@7,5;1P@6,5;2H@5,5;3P@5,6;4P@4,6;5H@4,5;6H@3,5;7P@3,6;8P@2,6;9H@2,5;10H@1,5;11P@1,6;12P@0,6;13P@0,5;14P@0,4;15P@0,3;16H@1,3;17H@1,4;18H@2,4;19H@2,3;20H@3,3;21H@3,4;22H@4,4;23H@4,3;24H@5,3;25H@5,4;26P@6,4;27P@7,4;28P@7,3;29P@7,2;30P@7,1;31P@6,1;32H@5,1;33H@4,1;34P@4,0;35P@3,0;36H@3,1;37H@2,1;38P@2,0;39P@1,0;40H@1,1;41P@0,1;42P@0,2;43H@1,2;44H@2,2;45H@3,2;46H@4,2;47H@5,2",
+  "sha256": "aab85dec8a4f117680323db399c71bd2bf6fc2807450cab74ecd96b77d404b75"
+}

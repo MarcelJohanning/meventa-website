@@ -1,0 +1,25 @@
+# Environment note
+
+## Git
+
+Repository: meventa-creative-runtime
+Branch at packaging time: main
+Commit at packaging time: bd6bb4a29874330d3a7b04ec8cdb2347987579ef
+
+## System
+
+Platform: macOS
+Architecture: arm64
+CPU: Apple M4 Pro
+Memory bytes: 25769803776
+
+## Runtime
+
+Node.js: v24.11.0
+npm: 11.6.1
+
+## Run note
+
+Local MacBook run.
+No benchmark-specific pretraining dataset or model checkpoint was used for this run.
+The -23 result was exported as JSON coordinates and independently revalidated from that JSON artifact.

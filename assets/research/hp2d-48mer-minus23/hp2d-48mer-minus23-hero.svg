@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1600" viewBox="0 0 1600 1600" role="img" aria-label="HP 2D 48-mer folding result">
+  <rect width="100%" height="100%" fill="#FFFFFF" />
+  <text x="800" y="76" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="38" font-weight="800" fill="#0F172A">HP 2D 48-mer folding result</text>
+  <text x="800" y="126" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="700" fill="#334155">Energy -23 | HH contacts 23 | MEVENTA Creative Runtime v10</text>
+
+  <g>
+    <circle cx="124.66250000000008" cy="1402.8" r="1.5" fill="#E2E8F0" />
+<circle cx="124.66250000000008" cy="1252.725" r="1.5" fill="#E2E8F0" />
+<circle cx="124.66250000000008" cy="1102.65" r="1.5" fill="#E2E8F0" />
+<circle cx="124.66250000000008" cy="952.575" r="1.5" fill="#E2E8F0" />
+<circle cx="124.66250000000008" cy="802.5" r="1.5" fill="#E2E8F0" />
+<circle cx="124.66250000000008" cy="652.425" r="1.5" fill="#E2E8F0" />
+<circle cx="124.66250000000008" cy="502.35" r="1.5" fill="#E2E8F0" />
+<circle cx="124.66250000000008" cy="352.27500000000003" r="1.5" fill="#E2E8F0" />
+<circle cx="124.66250000000008" cy="202.20000000000005" r="1.5" fill="#E2E8F0" />
+<circle cx="274.73750000000007" cy="1402.8" r="1.5" fill="#E2E8F0" />
+<circle cx="274.73750000000007" cy="1252.725" r="1.5" fill="#E2E8F0" />
+<circle cx="274.73750000000007" cy="1102.65" r="1.5" fill="#E2E8F0" />
+<circle cx="274.73750000000007" cy="952.575" r="1.5" fill="#E2E8F0" />
+<circle cx="274.73750000000007" cy="802.5" r="1.5" fill="#E2E8F0" />
+<circle cx="274.73750000000007" cy="652.425" r="1.5" fill="#E2E8F0" />
+<circle cx="274.73750000000007" cy="502.35" r="1.5" fill="#E2E8F0" />
+<circle cx="274.73750000000007" cy="352.27500000000003" r="1.5" fill="#E2E8F0" />
+<circle cx="274.73750000000007" cy="202.20000000000005" r="1.5" fill="#E2E8F0" />
+<circle cx="424.81250000000006" cy="1402.8" r="1.5" fill="#E2E8F0" />
+<circle cx="424.81250000000006" cy="1252.725" r="1.5" fill="#E2E8F0" />
+<circle cx="424.81250000000006" cy="1102.65" r="1.5" fill="#E2E8F0" />
+<circle cx="424.81250000000006" cy="952.575" r="1.5" fill="#E2E8F0" />
+<circle cx="424.81250000000006" cy="802.5" r="1.5" fill="#E2E8F0" />
+<circle cx="424.81250000000006" cy="652.425" r="1.5" fill="#E2E8F0" />
+<circle cx="424.81250000000006" cy="502.35" r="1.5" fill="#E2E8F0" />
+<circle cx="424.81250000000006" cy="352.27500000000003" r="1.5" fill="#E2E8F0" />
+<circle cx="424.81250000000006" cy="202.20000000000005" r="1.5" fill="#E2E8F0" />
+<circle cx="574.8875" cy="1402.8" r="1.5" fill="#E2E8F0" />
+<circle cx="574.8875" cy="1252.725" r="1.5" fill="#E2E8F0" />
+<circle cx="574.8875" cy="1102.65" r="1.5" fill="#E2E8F0" />
+<circle cx="574.8875" cy="952.575" r="1.5" fill="#E2E8F0" />
+<circle cx="574.8875" cy="802.5" r="1.5" fill="#E2E8F0" />
+<circle cx="574.8875" cy="652.425" r="1.5" fill="#E2E8F0" />
+<circle cx="574.8875" cy="502.35" r="1.5" fill="#E2E8F0" />
+<circle cx="574.8875" cy="352.27500000000003" r="1.5" fill="#E2E8F0" />
+<circle cx="574.8875" cy="202.20000000000005" r="1.5" fill="#E2E8F0" />
+<circle cx="724.9625000000001" cy="1402.8" r="1.5" fill="#E2E8F0" />
+<circle cx="724.9625000000001" cy="1252.725" r="1.5" fill="#E2E8F0" />
+<circle cx="724.9625000000001" cy="1102.65" r="1.5" fill="#E2E8F0" />
+<circle cx="724.9625000000001" cy="952.575" r="1.5" fill="#E2E8F0" />
+<circle cx="724.9625000000001" cy="802.5" r="1.5" fill="#E2E8F0" />
+<circle cx="724.9625000000001" cy="652.425" r="1.5" fill="#E2E8F0" />
+<circle cx="724.9625000000001" cy="502.35" r="1.5" fill="#E2E8F0" />
+<circle cx="724.9625000000001" cy="352.27500000000003" r="1.5" fill="#E2E8F0" />
+<circle cx="724.9625000000001" cy="202.20000000000005" r="1.5" fill="#E2E8F0" />
+<circle cx="875.0375" cy="1402.8" r="1.5" fill="#E2E8F0" />
+<circle cx="875.0375" cy="1252.725" r="1.5" fill="#E2E8F0" />
+<circle cx="875.0375" cy="1102.65" r="1.5" fill="#E2E8F0" />
+<circle cx="875.0375" cy="952.575" r="1.5" fill="#E2E8F0" />
+<circle cx="875.0375" cy="802.5" r="1.5" fill="#E2E8F0" />
+<circle cx="875.0375" cy="652.425" r="1.5" fill="#E2E8F0" />
+<circle cx="875.0375" cy="502.35" r="1.5" fill="#E2E8F0" />
+<circle cx="875.0375" cy="352.27500000000003" r="1.5" fill="#E2E8F0" />
+<circle cx="875.0375" cy="202.20000000000005" r="1.5" fill="#E2E8F0" />
+<circle cx="1025.1125000000002" cy="1402.8" r="1.5" fill="#E2E8F0" />
+<circle cx="1025.1125000000002" cy="1252.725" r="1.5" fill="#E2E8F0" />
+<circle cx="1025.1125000000002" cy="1102.65" r="1.5" fill="#E2E8F0" />
+<circle cx="1025.1125000000002" cy="952.575" r="1.5" fill="#E2E8F0" />
+<circle cx="1025.1125000000002" cy="802.5" r="1.5" fill="#E2E8F0" />
+<circle cx="1025.1125000000002" cy="652.425" r="1.5" fill="#E2E8F0" />
+<circle cx="1025.1125000000002" cy="502.35" r="1.5" fill="#E2E8F0" />
+<circle cx="1025.1125000000002" cy="352.27500000000003" r="1.5" fill="#E2E8F0" />
+<circle cx="1025.1125000000002" cy="202.20000000000005" r="1.5" fill="#E2E8F0" />
+<circle cx="1175.1875" cy="1402.8" r="1.5" fill="#E2E8F0" />
+<circle cx="1175.1875" cy="1252.725" r="1.5" fill="#E2E8F0" />
+<circle cx="1175.1875" cy="1102.65" r="1.5" fill="#E2E8F0" />
+<circle cx="1175.1875" cy="952.575" r="1.5" fill="#E2E8F0" />
+<circle cx="1175.1875" cy="802.5" r="1.5" fill="#E2E8F0" />
+<circle cx="1175.1875" cy="652.425" r="1.5" fill="#E2E8F0" />
+<circle cx="1175.1875" cy="502.35" r="1.5" fill="#E2E8F0" />
+<circle cx="1175.1875" cy="352.27500000000003" r="1.5" fill="#E2E8F0" />
+<circle cx="1175.1875" cy="202.20000000000005" r="1.5" fill="#E2E8F0" />
+<circle cx="1325.2624999999998" cy="1402.8" r="1.5" fill="#E2E8F0" />
+<circle cx="1325.2624999999998" cy="1252.725" r="1.5" fill="#E2E8F0" />
+<circle cx="1325.2624999999998" cy="1102.65" r="1.5" fill="#E2E8F0" />
+<circle cx="1325.2624999999998" cy="952.575" r="1.5" fill="#E2E8F0" />
+<circle cx="1325.2624999999998" cy="802.5" r="1.5" fill="#E2E8F0" />
+<circle cx="1325.2624999999998" cy="652.425" r="1.5" fill="#E2E8F0" />
+<circle cx="1325.2624999999998" cy="502.35" r="1.5" fill="#E2E8F0" />
+<circle cx="1325.2624999999998" cy="352.27500000000003" r="1.5" fill="#E2E8F0" />
+<circle cx="1325.2624999999998" cy="202.20000000000005" r="1.5" fill="#E2E8F0" />
+<circle cx="1475.3375" cy="1402.8" r="1.5" fill="#E2E8F0" />
+<circle cx="1475.3375" cy="1252.725" r="1.5" fill="#E2E8F0" />
+<circle cx="1475.3375" cy="1102.65" r="1.5" fill="#E2E8F0" />
+<circle cx="1475.3375" cy="952.575" r="1.5" fill="#E2E8F0" />
+<circle cx="1475.3375" cy="802.5" r="1.5" fill="#E2E8F0" />
+<circle cx="1475.3375" cy="652.425" r="1.5" fill="#E2E8F0" />
+<circle cx="1475.3375" cy="502.35" r="1.5" fill="#E2E8F0" />
+<circle cx="1475.3375" cy="352.27500000000003" r="1.5" fill="#E2E8F0" />
+<circle cx="1475.3375" cy="202.20000000000005" r="1.5" fill="#E2E8F0" />
+  </g>
+  <g>
+    <line x1="1025.1125000000002" y1="502.35" x2="875.0375" y2="502.35" stroke="#7BA4E8" stroke-width="4" stroke-dasharray="10 8" stroke-linecap="round" />
+<line x1="1025.1125000000002" y1="502.35" x2="1025.1125000000002" y2="652.425" stroke="#7BA4E8" stroke-width="4" stroke-dasharray="10 8" stroke-linecap="round" />
+<line x1="875.0375" y1="502.35" x2="875.0375" y2="652.425" stroke="#7BA4E8" stroke-width="4" stroke-dasharray="10 8" stroke-linecap="round" />
+<line x1="724.9625000000001" y1="502.35" x2="574.8875" y2="502.35" stroke="#7BA4E8" stroke-width="4" stroke-dasharray="10 8" stroke-linecap="round" />
+<line x1="724.9625000000001" y1="502.35" x2="724.9625000000001" y2="652.425" stroke="#7BA4E8" stroke-width="4" stroke-dasharray="10 8" stroke-linecap="round" />
+<line x1="574.8875" y1="502.35" x2="574.8875" y2="652.425" stroke="#7BA4E8" stroke-width="4" stroke-dasharray="10 8" stroke-linecap="round" />
+<line x1="424.81250000000006" y1="502.35" x2="424.81250000000006" y2="652.425" stroke="#7BA4E8" stroke-width="4" stroke-dasharray="10 8" stroke-linecap="round" />
+<line x1="424.81250000000006" y1="802.5" x2="574.8875" y2="802.5" stroke="#7BA4E8" stroke-width="4" stroke-dasharray="10 8" stroke-linecap="round" />
+<line x1="424.81250000000006" y1="802.5" x2="424.81250000000006" y2="952.575" stroke="#7BA4E8" stroke-width="4" stroke-dasharray="10 8" stroke-linecap="round" />
+<line x1="574.8875" y1="652.425" x2="724.9625000000001" y2="652.425" stroke="#7BA4E8" stroke-width="4" stroke-dasharray="10 8" stroke-linecap="round" />
+<line x1="574.8875" y1="802.5" x2="574.8875" y2="952.575" stroke="#7BA4E8" stroke-width="4" stroke-dasharray="10 8" stroke-linecap="round" />
+<line x1="724.9625000000001" y1="802.5" x2="875.0375" y2="802.5" stroke="#7BA4E8" stroke-width="4" stroke-dasharray="10 8" stroke-linecap="round" />
+<line x1="724.9625000000001" y1="802.5" x2="724.9625000000001" y2="952.575" stroke="#7BA4E8" stroke-width="4" stroke-dasharray="10 8" stroke-linecap="round" />
+<line x1="875.0375" y1="652.425" x2="1025.1125000000002" y2="652.425" stroke="#7BA4E8" stroke-width="4" stroke-dasharray="10 8" stroke-linecap="round" />
+<line x1="875.0375" y1="802.5" x2="875.0375" y2="952.575" stroke="#7BA4E8" stroke-width="4" stroke-dasharray="10 8" stroke-linecap="round" />
+<line x1="1025.1125000000002" y1="802.5" x2="1025.1125000000002" y2="952.575" stroke="#7BA4E8" stroke-width="4" stroke-dasharray="10 8" stroke-linecap="round" />
+<line x1="1025.1125000000002" y1="1102.65" x2="1025.1125000000002" y2="952.575" stroke="#7BA4E8" stroke-width="4" stroke-dasharray="10 8" stroke-linecap="round" />
+<line x1="875.0375" y1="1102.65" x2="724.9625000000001" y2="1102.65" stroke="#7BA4E8" stroke-width="4" stroke-dasharray="10 8" stroke-linecap="round" />
+<line x1="875.0375" y1="1102.65" x2="875.0375" y2="952.575" stroke="#7BA4E8" stroke-width="4" stroke-dasharray="10 8" stroke-linecap="round" />
+<line x1="724.9625000000001" y1="1102.65" x2="724.9625000000001" y2="952.575" stroke="#7BA4E8" stroke-width="4" stroke-dasharray="10 8" stroke-linecap="round" />
+<line x1="574.8875" y1="1102.65" x2="424.81250000000006" y2="1102.65" stroke="#7BA4E8" stroke-width="4" stroke-dasharray="10 8" stroke-linecap="round" />
+<line x1="574.8875" y1="1102.65" x2="574.8875" y2="952.575" stroke="#7BA4E8" stroke-width="4" stroke-dasharray="10 8" stroke-linecap="round" />
+<line x1="424.81250000000006" y1="1102.65" x2="424.81250000000006" y2="952.575" stroke="#7BA4E8" stroke-width="4" stroke-dasharray="10 8" stroke-linecap="round" />
+  </g>
+  <g>
+    <line x1="1325.2624999999998" y1="502.35" x2="1175.1875" y2="502.35" stroke="#64748B" stroke-width="5" stroke-linecap="round" />
+<line x1="1175.1875" y1="502.35" x2="1025.1125000000002" y2="502.35" stroke="#64748B" stroke-width="5" stroke-linecap="round" />
+<line x1="1025.1125000000002" y1="502.35" x2="1025.1125000000002" y2="352.27500000000003" stroke="#64748B" stroke-width="5" stroke-linecap="round" />
+<line x1="1025.1125000000002" y1="352.27500000000003" x2="875.0375" y2="352.27500000000003" stroke="#64748B" stroke-width="5" stroke-linecap="round" />
+<line x1="875.0375" y1="352.27500000000003" x2="875.0375" y2="502.35" stroke="#64748B" stroke-width="5" stroke-linecap="round" />
+<line x1="875.0375" y1="502.35" x2="724.9625000000001" y2="502.35" stroke="#64748B" stroke-width="5" stroke-linecap="round" />
+<line x1="724.9625000000001" y1="502.35" x2="724.9625000000001" y2="352.27500000000003" stroke="#64748B" stroke-width="5" stroke-linecap="round" />
+<line x1="724.9625000000001" y1="352.27500000000003" x2="574.8875" y2="352.27500000000003" stroke="#64748B" stroke-width="5" stroke-linecap="round" />
+<line x1="574.8875" y1="352.27500000000003" x2="574.8875" y2="502.35" stroke="#64748B" stroke-width="5" stroke-linecap="round" />
+<line x1="574.8875" y1="502.35" x2="424.81250000000006" y2="502.35" stroke="#64748B" stroke-width="5" stroke-linecap="round" />
+<line x1="424.81250000000006" y1="502.35" x2="424.81250000000006" y2="352.27500000000003" stroke="#64748B" stroke-width="5" stroke-linecap="round" />
+<line x1="424.81250000000006" y1="352.27500000000003" x2="274.73750000000007" y2="352.27500000000003" stroke="#64748B" stroke-width="5" stroke-linecap="round" />
+<line x1="274.73750000000007" y1="352.27500000000003" x2="274.73750000000007" y2="502.35" stroke="#64748B" stroke-width="5" stroke-linecap="round" />
+<line x1="274.73750000000007" y1="502.35" x2="274.73750000000007" y2="652.425" stroke="#64748B" stroke-width="5" stroke-linecap="round" />
+<line x1="274.73750000000007" y1="652.425" x2="274.73750000000007" y2="802.5" stroke="#64748B" stroke-width="5" stroke-linecap="round" />
+<line x1="274.73750000000007" y1="802.5" x2="424.81250000000006" y2="802.5" stroke="#64748B" stroke-width="5" stroke-linecap="round" />
+<line x1="424.81250000000006" y1="802.5" x2="424.81250000000006" y2="652.425" stroke="#64748B" stroke-width="5" stroke-linecap="round" />
+<line x1="424.81250000000006" y1="652.425" x2="574.8875" y2="652.425" stroke="#64748B" stroke-width="5" stroke-linecap="round" />
+<line x1="574.8875" y1="652.425" x2="574.8875" y2="802.5" stroke="#64748B" stroke-width="5" stroke-linecap="round" />
+<line x1="574.8875" y1="802.5" x2="724.9625000000001" y2="802.5" stroke="#64748B" stroke-width="5" stroke-linecap="round" />
+<line x1="724.9625000000001" y1="802.5" x2="724.9625000000001" y2="652.425" stroke="#64748B" stroke-width="5" stroke-linecap="round" />
+<line x1="724.9625000000001" y1="652.425" x2="875.0375" y2="652.425" stroke="#64748B" stroke-width="5" stroke-linecap="round" />
+<line x1="875.0375" y1="652.425" x2="875.0375" y2="802.5" stroke="#64748B" stroke-width="5" stroke-linecap="round" />
+<line x1="875.0375" y1="802.5" x2="1025.1125000000002" y2="802.5" stroke="#64748B" stroke-width="5" stroke-linecap="round" />
+<line x1="1025.1125000000002" y1="802.5" x2="1025.1125000000002" y2="652.425" stroke="#64748B" stroke-width="5" stroke-linecap="round" />
+<line x1="1025.1125000000002" y1="652.425" x2="1175.1875" y2="652.425" stroke="#64748B" stroke-width="5" stroke-linecap="round" />
+<line x1="1175.1875" y1="652.425" x2="1325.2624999999998" y2="652.425" stroke="#64748B" stroke-width="5" stroke-linecap="round" />
+<line x1="1325.2624999999998" y1="652.425" x2="1325.2624999999998" y2="802.5" stroke="#64748B" stroke-width="5" stroke-linecap="round" />
+<line x1="1325.2624999999998" y1="802.5" x2="1325.2624999999998" y2="952.575" stroke="#64748B" stroke-width="5" stroke-linecap="round" />
+<line x1="1325.2624999999998" y1="952.575" x2="1325.2624999999998" y2="1102.65" stroke="#64748B" stroke-width="5" stroke-linecap="round" />
+<line x1="1325.2624999999998" y1="1102.65" x2="1175.1875" y2="1102.65" stroke="#64748B" stroke-width="5" stroke-linecap="round" />
+<line x1="1175.1875" y1="1102.65" x2="1025.1125000000002" y2="1102.65" stroke="#64748B" stroke-width="5" stroke-linecap="round" />
+<line x1="1025.1125000000002" y1="1102.65" x2="875.0375" y2="1102.65" stroke="#64748B" stroke-width="5" stroke-linecap="round" />
+<line x1="875.0375" y1="1102.65" x2="875.0375" y2="1252.725" stroke="#64748B" stroke-width="5" stroke-linecap="round" />
+<line x1="875.0375" y1="1252.725" x2="724.9625000000001" y2="1252.725" stroke="#64748B" stroke-width="5" stroke-linecap="round" />
+<line x1="724.9625000000001" y1="1252.725" x2="724.9625000000001" y2="1102.65" stroke="#64748B" stroke-width="5" stroke-linecap="round" />
+<line x1="724.9625000000001" y1="1102.65" x2="574.8875" y2="1102.65" stroke="#64748B" stroke-width="5" stroke-linecap="round" />
+<line x1="574.8875" y1="1102.65" x2="574.8875" y2="1252.725" stroke="#64748B" stroke-width="5" stroke-linecap="round" />
+<line x1="574.8875" y1="1252.725" x2="424.81250000000006" y2="1252.725" stroke="#64748B" stroke-width="5" stroke-linecap="round" />
+<line x1="424.81250000000006" y1="1252.725" x2="424.81250000000006" y2="1102.65" stroke="#64748B" stroke-width="5" stroke-linecap="round" />
+<line x1="424.81250000000006" y1="1102.65" x2="274.73750000000007" y2="1102.65" stroke="#64748B" stroke-width="5" stroke-linecap="round" />
+<line x1="274.73750000000007" y1="1102.65" x2="274.73750000000007" y2="952.575" stroke="#64748B" stroke-width="5" stroke-linecap="round" />
+<line x1="274.73750000000007" y1="952.575" x2="424.81250000000006" y2="952.575" stroke="#64748B" stroke-width="5" stroke-linecap="round" />
+<line x1="424.81250000000006" y1="952.575" x2="574.8875" y2="952.575" stroke="#64748B" stroke-width="5" stroke-linecap="round" />
+<line x1="574.8875" y1="952.575" x2="724.9625000000001" y2="952.575" stroke="#64748B" stroke-width="5" stroke-linecap="round" />
+<line x1="724.9625000000001" y1="952.575" x2="875.0375" y2="952.575" stroke="#64748B" stroke-width="5" stroke-linecap="round" />
+<line x1="875.0375" y1="952.575" x2="1025.1125000000002" y2="952.575" stroke="#64748B" stroke-width="5" stroke-linecap="round" />
+  </g>
+  <g>
+    
+      <g>
+        <circle cx="1325.2624999999998" cy="502.35" r="31" fill="#F8FAFC" stroke="#94A3B8" stroke-width="4" />
+        <text x="1325.2624999999998" y="508.35" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#334155">P</text>
+        
+      </g>
+    
+
+      <g>
+        <circle cx="1175.1875" cy="502.35" r="31" fill="#F8FAFC" stroke="#94A3B8" stroke-width="4" />
+        <text x="1175.1875" y="508.35" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#334155">P</text>
+        
+      </g>
+    
+
+      <g>
+        <circle cx="1025.1125000000002" cy="502.35" r="31" fill="#0F172A" stroke="#2563EB" stroke-width="4" />
+        <text x="1025.1125000000002" y="508.35" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#FFFFFF">H</text>
+        
+      </g>
+    
+
+      <g>
+        <circle cx="1025.1125000000002" cy="352.27500000000003" r="31" fill="#F8FAFC" stroke="#94A3B8" stroke-width="4" />
+        <text x="1025.1125000000002" y="358.27500000000003" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#334155">P</text>
+        
+      </g>
+    
+
+      <g>
+        <circle cx="875.0375" cy="352.27500000000003" r="31" fill="#F8FAFC" stroke="#94A3B8" stroke-width="4" />
+        <text x="875.0375" y="358.27500000000003" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#334155">P</text>
+        
+      </g>
+    
+
+      <g>
+        <circle cx="875.0375" cy="502.35" r="31" fill="#0F172A" stroke="#2563EB" stroke-width="4" />
+        <text x="875.0375" y="508.35" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#FFFFFF">H</text>
+        
+      </g>
+    
+
+      <g>
+        <circle cx="724.9625000000001" cy="502.35" r="31" fill="#0F172A" stroke="#2563EB" stroke-width="4" />
+        <text x="724.9625000000001" y="508.35" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#FFFFFF">H</text>
+        
+      </g>
+    
+
+      <g>
+        <circle cx="724.9625000000001" cy="352.27500000000003" r="31" fill="#F8FAFC" stroke="#94A3B8" stroke-width="4" />
+        <text x="724.9625000000001" y="358.27500000000003" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#334155">P</text>
+        
+      </g>
+    
+
+      <g>
+        <circle cx="574.8875" cy="352.27500000000003" r="31" fill="#F8FAFC" stroke="#94A3B8" stroke-width="4" />
+        <text x="574.8875" y="358.27500000000003" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#334155">P</text>
+        
+      </g>
+    
+
+      <g>
+        <circle cx="574.8875" cy="502.35" r="31" fill="#0F172A" stroke="#2563EB" stroke-width="4" />
+        <text x="574.8875" y="508.35" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#FFFFFF">H</text>
+        
+      </g>
+    
+
+      <g>
+        <circle cx="424.81250000000006" cy="502.35" r="31" fill="#0F172A" stroke="#2563EB" stroke-width="4" />
+        <text x="424.81250000000006" y="508.35" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#FFFFFF">H</text>
+        
+      </g>
+    
+
+      <g>
+        <circle cx="424.81250000000006" cy="352.27500000000003" r="31" fill="#F8FAFC" stroke="#94A3B8" stroke-width="4" />
+        <text x="424.81250000000006" y="358.27500000000003" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#334155">P</text>
+        
+      </g>
+    
+
+      <g>
+        <circle cx="274.73750000000007" cy="352.27500000000003" r="31" fill="#F8FAFC" stroke="#94A3B8" stroke-width="4" />
+        <text x="274.73750000000007" y="358.27500000000003" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#334155">P</text>
+        
+      </g>
+    
+
+      <g>
+        <circle cx="274.73750000000007" cy="502.35" r="31" fill="#F8FAFC" stroke="#94A3B8" stroke-width="4" />
+        <text x="274.73750000000007" y="508.35" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#334155">P</text>
+        
+      </g>
+    
+
+      <g>
+        <circle cx="274.73750000000007" cy="652.425" r="31" fill="#F8FAFC" stroke="#94A3B8" stroke-width="4" />
+        <text x="274.73750000000007" y="658.425" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#334155">P</text>
+        
+      </g>
+    
+
+      <g>
+        <circle cx="274.73750000000007" cy="802.5" r="31" fill="#F8FAFC" stroke="#94A3B8" stroke-width="4" />
+        <text x="274.73750000000007" y="808.5" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#334155">P</text>
+        
+      </g>
+    
+
+      <g>
+        <circle cx="424.81250000000006" cy="802.5" r="31" fill="#0F172A" stroke="#2563EB" stroke-width="4" />
+        <text x="424.81250000000006" y="808.5" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#FFFFFF">H</text>
+        
+      </g>
+    
+
+      <g>
+        <circle cx="424.81250000000006" cy="652.425" r="31" fill="#0F172A" stroke="#2563EB" stroke-width="4" />
+        <text x="424.81250000000006" y="658.425" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#FFFFFF">H</text>
+        
+      </g>
+    
+
+      <g>
+        <circle cx="574.8875" cy="652.425" r="31" fill="#0F172A" stroke="#2563EB" stroke-width="4" />
+        <text x="574.8875" y="658.425" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#FFFFFF">H</text>
+        
+      </g>
+    
+
+      <g>
+        <circle cx="574.8875" cy="802.5" r="31" fill="#0F172A" stroke="#2563EB" stroke-width="4" />
+        <text x="574.8875" y="808.5" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#FFFFFF">H</text>
+        
+      </g>
+    
+
+      <g>
+        <circle cx="724.9625000000001" cy="802.5" r="31" fill="#0F172A" stroke="#2563EB" stroke-width="4" />
+        <text x="724.9625000000001" y="808.5" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#FFFFFF">H</text>
+        
+      </g>
+    
+
+      <g>
+        <circle cx="724.9625000000001" cy="652.425" r="31" fill="#0F172A" stroke="#2563EB" stroke-width="4" />
+        <text x="724.9625000000001" y="658.425" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#FFFFFF">H</text>
+        
+      </g>
+    
+
+      <g>
+        <circle cx="875.0375" cy="652.425" r="31" fill="#0F172A" stroke="#2563EB" stroke-width="4" />
+        <text x="875.0375" y="658.425" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#FFFFFF">H</text>
+        
+      </g>
+    
+
+      <g>
+        <circle cx="875.0375" cy="802.5" r="31" fill="#0F172A" stroke="#2563EB" stroke-width="4" />
+        <text x="875.0375" y="808.5" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#FFFFFF">H</text>
+        
+      </g>
+    
+
+      <g>
+        <circle cx="1025.1125000000002" cy="802.5" r="31" fill="#0F172A" stroke="#2563EB" stroke-width="4" />
+        <text x="1025.1125000000002" y="808.5" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#FFFFFF">H</text>
+        
+      </g>
+    
+
+      <g>
+        <circle cx="1025.1125000000002" cy="652.425" r="31" fill="#0F172A" stroke="#2563EB" stroke-width="4" />
+        <text x="1025.1125000000002" y="658.425" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#FFFFFF">H</text>
+        
+      </g>
+    
+
+      <g>
+        <circle cx="1175.1875" cy="652.425" r="31" fill="#F8FAFC" stroke="#94A3B8" stroke-width="4" />
+        <text x="1175.1875" y="658.425" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#334155">P</text>
+        
+      </g>
+    
+
+      <g>
+        <circle cx="1325.2624999999998" cy="652.425" r="31" fill="#F8FAFC" stroke="#94A3B8" stroke-width="4" />
+        <text x="1325.2624999999998" y="658.425" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#334155">P</text>
+        
+      </g>
+    
+
+      <g>
+        <circle cx="1325.2624999999998" cy="802.5" r="31" fill="#F8FAFC" stroke="#94A3B8" stroke-width="4" />
+        <text x="1325.2624999999998" y="808.5" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#334155">P</text>
+        
+      </g>
+    
+
+      <g>
+        <circle cx="1325.2624999999998" cy="952.575" r="31" fill="#F8FAFC" stroke="#94A3B8" stroke-width="4" />
+        <text x="1325.2624999999998" y="958.575" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#334155">P</text>
+        
+      </g>
+    
+
+      <g>
+        <circle cx="1325.2624999999998" cy="1102.65" r="31" fill="#F8FAFC" stroke="#94A3B8" stroke-width="4" />
+        <text x="1325.2624999999998" y="1108.65" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#334155">P</text>
+        
+      </g>
+    
+
+      <g>
+        <circle cx="1175.1875" cy="1102.65" r="31" fill="#F8FAFC" stroke="#94A3B8" stroke-width="4" />
+        <text x="1175.1875" y="1108.65" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#334155">P</text>
+        
+      </g>
+    
+
+      <g>
+        <circle cx="1025.1125000000002" cy="1102.65" r="31" fill="#0F172A" stroke="#2563EB" stroke-width="4" />
+        <text x="1025.1125000000002" y="1108.65" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#FFFFFF">H</text>
+        
+      </g>
+    
+
+      <g>
+        <circle cx="875.0375" cy="1102.65" r="31" fill="#0F172A" stroke="#2563EB" stroke-width="4" />
+        <text x="875.0375" y="1108.65" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#FFFFFF">H</text>
+        
+      </g>
+    
+
+      <g>
+        <circle cx="875.0375" cy="1252.725" r="31" fill="#F8FAFC" stroke="#94A3B8" stroke-width="4" />
+        <text x="875.0375" y="1258.725" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#334155">P</text>
+        
+      </g>
+    
+
+      <g>
+        <circle cx="724.9625000000001" cy="1252.725" r="31" fill="#F8FAFC" stroke="#94A3B8" stroke-width="4" />
+        <text x="724.9625000000001" y="1258.725" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#334155">P</text>
+        
+      </g>
+    
+
+      <g>
+        <circle cx="724.9625000000001" cy="1102.65" r="31" fill="#0F172A" stroke="#2563EB" stroke-width="4" />
+        <text x="724.9625000000001" y="1108.65" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#FFFFFF">H</text>
+        
+      </g>
+    
+
+      <g>
+        <circle cx="574.8875" cy="1102.65" r="31" fill="#0F172A" stroke="#2563EB" stroke-width="4" />
+        <text x="574.8875" y="1108.65" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#FFFFFF">H</text>
+        
+      </g>
+    
+
+      <g>
+        <circle cx="574.8875" cy="1252.725" r="31" fill="#F8FAFC" stroke="#94A3B8" stroke-width="4" />
+        <text x="574.8875" y="1258.725" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#334155">P</text>
+        
+      </g>
+    
+
+      <g>
+        <circle cx="424.81250000000006" cy="1252.725" r="31" fill="#F8FAFC" stroke="#94A3B8" stroke-width="4" />
+        <text x="424.81250000000006" y="1258.725" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#334155">P</text>
+        
+      </g>
+    
+
+      <g>
+        <circle cx="424.81250000000006" cy="1102.65" r="31" fill="#0F172A" stroke="#2563EB" stroke-width="4" />
+        <text x="424.81250000000006" y="1108.65" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#FFFFFF">H</text>
+        
+      </g>
+    
+
+      <g>
+        <circle cx="274.73750000000007" cy="1102.65" r="31" fill="#F8FAFC" stroke="#94A3B8" stroke-width="4" />
+        <text x="274.73750000000007" y="1108.65" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#334155">P</text>
+        
+      </g>
+    
+
+      <g>
+        <circle cx="274.73750000000007" cy="952.575" r="31" fill="#F8FAFC" stroke="#94A3B8" stroke-width="4" />
+        <text x="274.73750000000007" y="958.575" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#334155">P</text>
+        
+      </g>
+    
+
+      <g>
+        <circle cx="424.81250000000006" cy="952.575" r="31" fill="#0F172A" stroke="#2563EB" stroke-width="4" />
+        <text x="424.81250000000006" y="958.575" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#FFFFFF">H</text>
+        
+      </g>
+    
+
+      <g>
+        <circle cx="574.8875" cy="952.575" r="31" fill="#0F172A" stroke="#2563EB" stroke-width="4" />
+        <text x="574.8875" y="958.575" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#FFFFFF">H</text>
+        
+      </g>
+    
+
+      <g>
+        <circle cx="724.9625000000001" cy="952.575" r="31" fill="#0F172A" stroke="#2563EB" stroke-width="4" />
+        <text x="724.9625000000001" y="958.575" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#FFFFFF">H</text>
+        
+      </g>
+    
+
+      <g>
+        <circle cx="875.0375" cy="952.575" r="31" fill="#0F172A" stroke="#2563EB" stroke-width="4" />
+        <text x="875.0375" y="958.575" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#FFFFFF">H</text>
+        
+      </g>
+    
+
+      <g>
+        <circle cx="1025.1125000000002" cy="952.575" r="31" fill="#0F172A" stroke="#2563EB" stroke-width="4" />
+        <text x="1025.1125000000002" y="958.575" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#FFFFFF">H</text>
+        
+      </g>
+    
+  </g>
+
+  
+    <g font-family="Inter, Arial, sans-serif" font-size="16" fill="#334155">
+      <circle cx="86" cy="1508" r="12" fill="#0F172A" stroke="#2563EB" stroke-width="3" />
+      <text x="110" y="1514">H monomer</text>
+
+      <circle cx="251" cy="1508" r="12" fill="#F8FAFC" stroke="#94A3B8" stroke-width="3" />
+      <text x="275" y="1514">P monomer</text>
+
+      <line x1="486" y1="1508" x2="556" y2="1508" stroke="#7BA4E8" stroke-width="4" stroke-dasharray="8 8" />
+      <text x="574" y="1514">non-consecutive H-H contact</text>
+    </g>
+  
+  <text x="800" y="1546" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="18" fill="#475569">Valid fold | Independently revalidated from exported JSON artifact</text>
+<text x="800" y="1574" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="18" fill="#475569">Candidate cand_1782371765506_5eolwv | canonical hash unknown | JSON SHA256 ac08087d7145eb5ffcf5e7…</text>
+</svg>
